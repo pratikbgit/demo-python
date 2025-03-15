@@ -1,3 +1,5 @@
+import sys
+
 # x = 5   # integer
 # y = "Jay Bhavani"  # string
 # z = 3.14   # float
@@ -49,5 +51,7 @@
 #     print(f"Pratik, {mname} {gname}")
 # getName("Raghurao", "Bachchhe")
 
-name = input("Enter your name: ")
-print(f"Hello Sir , {name} how may i help you ?")
+#name = input("Enter your name: ")
+#print(f"Hello Sir , {name} how may i help you ?")
+
+print(sys.version)
