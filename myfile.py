@@ -68,3 +68,10 @@ print(x) """
 
 # print("Python is " + x)
 
+#  Srting practise
+
+a = """Lorem ipsum dolor sit amet,
+consectetur adipiscing elit,
+sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua."""
+print(a)
