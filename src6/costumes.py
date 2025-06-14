@@ -1,5 +1,5 @@
 # Opens and saves binary files
-
+# To Run the command :  python3 costumes.py costume1.gif costume2.gif
 import sys
 
 from PIL import Image
